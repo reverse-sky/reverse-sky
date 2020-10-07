@@ -26,3 +26,6 @@
 |소프트웨어세미나1|최신 소프트웨어 트렌드|1|
 
 
+github address: [reversky][github]
+
+[github]:http://github.com/reversesky
