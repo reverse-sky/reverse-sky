@@ -1,5 +1,5 @@
 # 한림대학교 소프트웨어융합대학
-## 20185141_용권순
+## 20185141_용권순 *콘텐츠IT학과*
 ---
 <img src =Finn_and_jake.jpg height = 150 width = 250>
 ---
@@ -11,12 +11,14 @@
 * **인공지능**   
 * *영어*
 * 의료정보학  
-
+--------
 프로그래밍 언어 스킬    
 1.Java  
 2.C(현재 학습중)  
 3.Python    
-
+------
+>자주 이용하는 사이트목록 
+>> [Google][google]
 -----
 
 2020년도 2학기 강의 과목   
@@ -29,7 +31,12 @@
 |전공|오픈소스SW의 이해|오픈소스와 관련된 지식들|김동회 교수님|3|
 |전공|데이터베이스|데이터베이스의 개념과 SQL사용|윤지희 교수님|3|
 |전공|인공지능수학|인공지능을 배우기 위해 필요한 기초 수학|임성훈 교수님|3|   
+------------
 
-github주소
-github address: [reversky][github]
-[github]:http://github.com/reversesky
+
+github주소  
+github address: [reversky][github]   
+[github]: http://github.com/reversesky
+[google]: http://www.google.com
+[naver]: http://www.naver.com 
+[hallym]: http://www.hallym.ac.kr
