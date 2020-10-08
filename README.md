@@ -1,4 +1,4 @@
-# reveresky_Resume_since(2020_10_08)
+# reveresky_Resume_since(2020_10_07)
 ## 한림대학교_소프트웨어융합대학
 ### 20185141_용권순 *콘텐츠IT학과*
 ### Github address: [reversky][github]
