@@ -1,11 +1,14 @@
-# 한림대학교 소프트웨어융합대학
-## 20185141_용권순 *콘텐츠IT학과*
----
-<img src =Finn_and_jake.jpg height = 150 width = 250>
----
-소속: 소프트웨어 융합대학  
-전공: 콘텐츠IT학과
-복수전공: 스마트IOT학과
+# 한림대학교 
+## 소프트웨어융합대학
+### 20185141_용권순 *콘텐츠IT학과*
+### Github address: [reversky][github]
+------
+<img src =Finn_and_jake.jpg height = 150 width = 250>   
+
+******
+소속: [소프트웨어 융합대학]   
+전공: [콘텐츠IT학과]    
+복수전공: [스마트IOT학과]   
 
 관심분야   
 * **인공지능**   
@@ -18,7 +21,9 @@
 3.Python    
 ------
 >자주 이용하는 사이트목록 
->> [Google][google]
+>> [구글][google]   
+>> [네이버][naver]   
+>> [한림대학교][hallym]   
 -----
 
 2020년도 2학기 강의 과목   
@@ -34,9 +39,8 @@
 ------------
 
 
-github주소  
-github address: [reversky][github]   
-[github]: http://github.com/reversesky
-[google]: http://www.google.com
-[naver]: http://www.naver.com 
-[hallym]: http://www.hallym.ac.kr
+     
+[github]: http://github.com/reversesky  
+[google]: http://www.google.com  
+[naver]: http://www.naver.com   
+[hallym]: http://www.hallym.ac.kr  
