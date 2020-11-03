@@ -3,7 +3,7 @@
 ### 20185141_용권순 *콘텐츠IT학과*
 ### Github address: [reversky][github]
 ------
-<img src =Finn_and_jake.jpg height = 150 width = 250>   
+<img src =증명사진.jpg height = 150 width = 250>   
 <!이미지를 삽입하는 방법, height는 세로를 width는 높이를 나타낸다. >
 
 
