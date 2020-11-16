@@ -36,8 +36,10 @@
 >> [네이버][naver]   
 >> [한림대학교][hallym]   
 >> [ELLLO][elllo]
------
-
+--------
+한림대학교 AACL연구생 (학부 연구생)
+AACL[aacl]
+---------
 **2020년도 2학기 강의 과목**   
 |분류|과목|내용|교수님|학점|
 |:---:|:---:|:---:|:---:|:---:|
@@ -54,7 +56,7 @@
 
      
      
-     
+[aacl]:https://sites.google.com/view/ai-comm-lab/home
 [github]: http://github.com/reversesky  
 [google]: http://www.google.com  
 [naver]: http://www.naver.com   
