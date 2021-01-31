@@ -42,7 +42,8 @@
 >> [ELLLO][elllo]
 --------
 한림대학교 AACL연구생 (학부 연구생) since 2020.09~
-[AACL][aacl]
+[AACL][aacl]  
+[공부용 개발 블로그](https://velog.io/@reversesky)
 ---------
 
 **수강내역**
