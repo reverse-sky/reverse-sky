@@ -1,5 +1,5 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/reversesky)
-# reveresky_Resume_since(2020_10_07)
+# ReverseSky recently updated time: 2022-02-22)
 ## 한림대학교_소프트웨어융합대학
 ### 20185141_용권순 *콘텐츠IT학과*
 ### Github address: [reversky][github][![Generic badge](https://img.shields.io/badge/github-go-blue?logo=github)](https://github.com/reversesky)<br><br>
