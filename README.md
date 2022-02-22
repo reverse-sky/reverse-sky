@@ -4,7 +4,7 @@
 ### 20185141_용권순 *콘텐츠IT학과*
 ### Github address: [reversky][github][![Generic badge](https://img.shields.io/badge/github-go-blue?logo=github)](https://github.com/reversesky)<br><br>
 ------
-<img src =KakaoTalk_20220222_113424548.jpg>   
+<img src =KakaoTalk_20220222_113424548.jpg , alt = "YKS" , height = "200", width="300">   
 <!이미지를 삽입하는 방법, height는 세로를 width는 높이를 나타낸다. >
 
 
@@ -19,27 +19,28 @@
 >>2020년도 2학기  
 *******  
 소속: [소프트웨어 융합대학]   
-전공: [콘텐츠IT학과]    
+전공: [빅데이터]    
 복수전공: [스마트IOT학과]   
 --------------
 * *한림대학교 AACL연구생*  
 [AACL][aacl]
 -----------
 관심분야   
-* **인공지능**   
+* **Machine Learning**   
 * *영어*
 * 의료정보학  
+* Information Theory
 --------
  프로그래밍 언어 스킬    
-1.Java  
-2.C(현재 학습중)  
-3.Python    
+1.Python  
+2.C
+3.C++
+4.Java    
 ------
 >자주 이용하는 사이트목록 
 >> [구글][google]   
 >> [네이버][naver]   
 >> [한림대학교][hallym]   
->> [ELLLO][elllo]
 --------
 한림대학교 AACL연구생 (학부 연구생) since 2020.09~
 [AACL][aacl]  
