@@ -4,7 +4,7 @@
 ### 20185141_용권순 *콘텐츠IT학과*
 ### Github address: [reversky][github][![Generic badge](https://img.shields.io/badge/github-go-blue?logo=github)](https://github.com/reversesky)<br><br>
 ------
-<img src =증명사진.jpg >   
+<img src =KakaoTalk_20220222_113424548.jpg>   
 <!이미지를 삽입하는 방법, height는 세로를 width는 높이를 나타낸다. >
 
 
