@@ -1,7 +1,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/reversesky)
 # ReverseSky recently updated time: 2022-02-22)
 ## 한림대학교_소프트웨어융합대학
-### 20185141_용권순 *콘텐츠IT학과*
+### 20185141_용권순 *빅데이터학과*
 ### Github address: [reversky][github][![Generic badge](https://img.shields.io/badge/github-go-blue?logo=github)](https://github.com/reversesky)<br><br>
 ------
 <img src ="200kb_2.jpg"  alt="YKS" height="390" width="300">   
@@ -50,7 +50,10 @@
 **수강내역**
 > 1학년 1학기
 > 1학년 2학기
-
+> 2학년 1학기
+> 2학년 2학기
+> 3학년 1학기
+> 3학년 2학기(수강중)
 **2020년도 2학기 강의 과목**   
 
 |분류|과목|내용|교수님|학점|
