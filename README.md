@@ -42,8 +42,8 @@
 >> [네이버][naver]   
 >> [한림대학교][hallym]   
 --------
-한림대학교 AACL연구생 (학부 연구생) since 2020.09~
 [AACL][aacl]  
+한림대학교 AACL연구생 (학부 연구생) since 2020.09~
 [공부용 개발 블로그](https://velog.io/@reversesky)
 ---------
 
