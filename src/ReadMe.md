@@ -1,1 +1,1 @@
-# 이미지 파일을 저장하는 
+# saved the image file
