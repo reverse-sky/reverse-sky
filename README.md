@@ -4,7 +4,7 @@
 ### 20185141_용권순 *빅데이터학과*
 ### Github address: [reversky][github][![Generic badge](https://img.shields.io/badge/github-go-blue?logo=github)](https://github.com/reversesky)<br><br>
 ------
-<img src ="200kb_2.jpg"  alt="YKS" height="390" width="300">   
+<img src ="./src/img/200kb_2.jpg"  alt="YKS" height="390" width="300">   
 <!이미지를 삽입하는 방법, height는 세로를 width는 높이를 나타낸다. >
 
 
