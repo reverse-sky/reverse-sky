@@ -10,9 +10,9 @@
 
 ### 📧 Email
 
-Google: [yykks3971@gmail.com](mailto:jyong0719@gmail.com)
+Google: [yykks3971@gmail.com](mailto:yykks3971@gmail.com)
 
-Naver  : yks3971[@naver.co](mailto:jyong0719@naver.com)m
+Naver  : [yks3971@naver.com](mailto:yks3971@naver.com)
 
 ![KakaoTalk_20220222_113424548 (1).jpg](KWONSOON%20YONG%20583e2d2675db4434987bd664a9df4ead/KakaoTalk_20220222_113424548_(1).jpg)
 
@@ -147,24 +147,3 @@ Hallym. Univ.
 - ****Development of Encoding techniques using Machine Learning (****[https://github.com/reverse-sky/CapstoneDesign2022_1_DEML](https://github.com/reverse-sky/CapstoneDesign2022_1_DEML)****)****
 - 
 
----
-
-# 🛠 기술
-
-## 💻 IT
-
-### Javascript
-
-6년 이상 React와 Redux를 사용해 프론트엔드 개발, Node, Express, Hapi.js로 백엔드 API 개발, Mocha와 Jest로 자동화 테스트도 진행했습니다.
-
-### Golang
-
-최근에 배우기 시작했고 어렵지만 재미를 느끼고 있습니다. 아직 능숙하지는 않지만 직접 몇몇 기능을 만들고 업데이트해본 경험이 있습니다.
-
-### 기술 문서 작성
-
-기술적인 주제에 대해 글 쓰는 것을 좋아하고 잘합니다. 간단한 용어로 설명해 사람들이 쉽게 이해하도록 하는 것에 보람을 느낍니다.
-
----
-
----
