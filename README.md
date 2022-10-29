@@ -1,6 +1,7 @@
 # KWONSOON YONG
 
 ## CONTACT
+<img src="https://github.com/reverse-sky/reverse-sky/blob/main/src/img/200kb_2.jpg" width="250" height="300">
 
 ### 📞 Phone
 
@@ -13,8 +14,6 @@
 Google: [yykks3971@gmail.com](mailto:yykks3971@gmail.com)
 
 Naver  : [yks3971@naver.com](mailto:yks3971@naver.com)
-
-![KakaoTalk_20220222_113424548 (1).jpg](KWONSOON%20YONG%20583e2d2675db4434987bd664a9df4ead/KakaoTalk_20220222_113424548_(1).jpg)
 
 ---
 
