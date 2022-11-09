@@ -52,9 +52,10 @@ Chuncheon,
 
 Repulic of Korea
 
-## 🎓  GPA
 
----
+<details>
+<summary style="margin-left: 100px;">🎓  GPA</summary>
+<div style="margin-left: 25px;">
 
 |  | Semester | GPA | Ranking |
 | --- | --- | --- | --- |
@@ -66,28 +67,17 @@ Repulic of Korea
 |  | Spring.  2022 | 4.3 | 15/109 |
 |  | Fall.       2022 | —— | —— |
 |  | Total:  | 4.26 | ——— |
+</div>
+</details>
+
 
 ## ✏️ RESEARCH EXPERIENCES
 
 ---
 
-### date
-
----
-
-Sep. 2020.
-
-### content
-
----
-
-AACL([https://sites.google.com/view/ai-comm-lab/home](https://sites.google.com/view/ai-comm-lab/home))
-
-### Location
-
----
-
-Hallym. Univ. 
+date|content|Location
+|:---|:----|:---
+Sep. 2020.|AACL([https://sites.google.com/view/ai-comm-lab/home](https://sites.google.com/view/ai-comm-lab/home))|Hallym. Univ. 
 
 ---
 
@@ -106,9 +96,14 @@ Hallym. Univ.
 
 1. 문희찬, 김민혁, **용권순**, 한대현,김태운 “딥 러닝기반 실시간 영상처리를 통한 크랙 탐지 및 개인형 이동수단 주행 보조 시스템 개발”(2021)
 
-## 🏆 AWARDS AND HONORS
 
----
+
+</div>
+</details>
+
+<details>
+<summary style="margin-left: 100px;">🏆AWARDS AND HONORS</summary>
+<div style="margin-left: 25px;">
 
 |  | Content | Prize | Host | Date |
 | --- | --- | --- | --- | --- |
@@ -121,7 +116,16 @@ Hallym. Univ.
 |  | HBC-5 오픈소스 딥러닝 해커톤 | 은상 | 한림대학교 SW중심대학사업단 | 2021 Nov |
 |  | 2021년 SW창업 아이디어 경진대회 | 은상 | 한림대학교 SW중심대학사업단 | 2021 Nov |
 
-## 🏅 SCHOLARSHIP
+</div>
+</details>
+
+
+</div>
+</details>
+
+<details>
+<summary style="margin-left: 100px;">🏅 SCHOLARSHIP</summary>
+<div style="margin-left: 25px;">
 
 |  | Content | Host | Semester |
 | --- | --- | --- | --- |
@@ -129,15 +133,25 @@ Hallym. Univ.
 |  | National Excellence in Science and Engineering Scholarship | Republic of Korea Government | 2022. Mar ~ 2023.Mar(Scheduled) |
 |  | SW Mentoring Scholarship | SW Department  in Hallym Univ. | 2021 Mar~ 2021 Summer |
 |  | SW Overseas Training Scholarship | SW Department  in Hallym Univ. | 2022 Summer |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
-## ✈️ OVERSEAS EXPERIENCE
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
+<summary style="margin-left: 100px;">✈️ OVERSEAS EXPERIENCE</summary>
+<div style="margin-left: 25px;">
+
 
 |  | Country | Location | Date |
 | --- | --- | --- | --- |
 |  | United Kingdom | University of York | 2022.07.04 ~ 2022.08.09 |
+
+</div>
+</details>
+
 
 ## **👩🏻‍💻** PROJECT
 
