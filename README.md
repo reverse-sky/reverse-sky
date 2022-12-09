@@ -3,9 +3,7 @@
 ## CONTACT
 <img src="https://github.com/reverse-sky/reverse-sky/blob/main/src/img/200kb_2.jpg" width="250" height="300">
 
-### 📞 Phone
 
-+82) 010-4875-6624
 
 ---
 
