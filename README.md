@@ -28,7 +28,7 @@ Hi, Guys. I'm [KwonSoon]()
 ---
 
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🖥️Tech Stack🖥️ </h3>
 
 <p align="center"> Preferred Language</p>
 
@@ -42,7 +42,7 @@ Hi, Guys. I'm [KwonSoon]()
   
 </div>
 
-<h4 align="center"> 👀Interest👀</h4>
+<h4 align="center"> ☘️Interest☘️</h4>
 
 <div align="center" style="text-align:center">
   
