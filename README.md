@@ -1,7 +1,6 @@
 # KWONSOON YONG
 
 ## CONTACT
-<img src="https://github.com/reverse-sky/reverse-sky/blob/main/resume/src/img/200kb_2.jpg" width="250" height="300">
 
 
 
