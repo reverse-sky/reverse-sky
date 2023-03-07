@@ -13,7 +13,7 @@
 -->
 
 
-Hi, there, I'm [KwonSoon]()
+Hi, Guys. I'm [KwonSoon]()
 -  Interesting on [AI](), [Graph Segmentation] and [Data Mining]() 
 - 📖  My [Blog](https://velog.io/@reversesky)
 <!-- - Contact -->
