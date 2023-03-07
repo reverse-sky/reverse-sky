@@ -16,7 +16,7 @@
 Hi, Guys. I'm [KwonSoon]()
 -  Interesting on [AI](), [Graph Segmentation] and [Data Mining]() 
 - 📖  My [Blog](https://velog.io/@reversesky)
-<!-- - Contact -->
+- Contact [Gmail](https://yykks3971@gmail.com)
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
 - The 9th Republic of Korea SW Convergence Hackathon Grand Prize <br>
   (Minister of Science and Information and Communication Technology Award)
