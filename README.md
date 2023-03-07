@@ -1,159 +1,85 @@
-# KWONSOON YONG
+<!--
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=🐤🐥🐣&fontAlign=80&fontAlignY=30&desc=%20%20%20%20%20Hi,%20there👋👋%20Welcome%20to%20My%20Space&color=gradient) -->
+<!-- a Repulic of korea  -->
+<!-- :school: I'm currently studying at a university in Chuncheon. -->
+<!-- - 💬 If Give me Question [Click](https://github.com/younghoonNa/younghoonNa/issues) -->
+<!-- - :octocat: SEE More [Git Statuts](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md) -->
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyounghoonNa&count_bg=%231EE3E9&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com) -->
+<!--
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/younghoonNa/count.svg" />
+</p>
+-->
 
-## CONTACT
 
-
-
+Hi, there, I'm [KwonSoon]()
+-  Interesting on [AI](), [Graph Segmentation] and [Data Mining]() 
+- 📖  My [Blog](https://velog.io/@reversesky)
+<!-- - Contact -->
+<!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayounghoon0223@gmail.com)](mailto:nayounghoon0223@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/187._.yh/)](https://www.instagram.com/187._.yh/) 
+- The 9th Republic of Korea SW Convergence Hackathon Grand Prize <br>
+  (Minister of Science and Information and Communication Technology Award)
+- Joint AI Competition (Dacon) at the SW-focused University, 9th Encouragement Prize <br>
+  (Chairman's Prize from the SW-focused University Council)
+- (Dacon) Analysis penguin weight 6th. 
+- Accepted 2 [IEEE papers](https://ieeexplore.ieee.org/author/37089614000) and 1 ACK 2022 Undergraudate Student Paper Prize
+-->
 ---
 
-### 📧 Email
 
-Google: [yykks3971@gmail.com](mailto:yykks3971@gmail.com)
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-Naver  : [yks3971@naver.com](mailto:yks3971@naver.com)
+<p align="center"> Preferred Language</p>
 
----
+<div align="center" style="text-align:center">
 
-### 🏠 Blog
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)</a>&nbsp;
+  ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)</a>&nbsp;
+  <!-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)</a>&nbsp;-->
 
- github: [https://github.com/reverse-sky](https://github.com/reverse-sky)
-
-blog  : [https://velog.io/@reversesky](https://velog.io/@reversesky)
-
----
-
-## 📚 EDUCATION
-
----
-
-### date
-
----
-
-Mar. 2018 ~
-
-Aug. 2023(scheduled)
-
-### content
-
----
-
-Hallym University
-빅데이터학부(구 컴퓨터공학)
-
-### Location
-
----
-
-Chuncheon,
-
-Repulic of Korea
-
-
-<details>
-<summary style="margin-left: 100px;">🎓  GPA</summary>
-<div style="margin-left: 25px;">
-
-|  | Semester | GPA | Ranking |
-| --- | --- | --- | --- |
-|  | Spring.  2018 | 4.27 | 11/78 |
-|  | Fall.       2018 | 4.31 | 3/142 |
-|  | Fall.       2020 | 4.08 | 8/32 |
-|  | Spring.  2021 | 4.25 | 13/76 |
-|  | Fall.       2021 | 4.33 | 11/90 |
-|  | Spring.  2022 | 4.3 | 15/109 |
-|  | Fall.       2022 | —— | —— |
-|  | Total:  | 4.26 | ——— |
+<br>
+  
 </div>
-</details>
 
+<h4 align="center"> 👀Interest👀</h4>
 
-## ✏️ RESEARCH EXPERIENCES
+<div align="center" style="text-align:center">
+  
+ ![PytorchGeometric](https://img.shields.io/badge/PyG-00999A?style=for-the-badge&logo=PyG&logoColor=white)</a>&nbsp;
+ <br>
+ 
+</div>
 
----
+<!-- 
+<h4 align="center">📝I've used at least once📝</h4>
 
-date|content|Location
-|:---|:----|:---
-Sep. 2020.|AACL([https://sites.google.com/view/ai-comm-lab/home](https://sites.google.com/view/ai-comm-lab/home))|Hallym. Univ. 
-
----
-
-## 📝 RESEARCH INTERESTS
-
-- Graph Neural Network
-- Machine Learning
-- Reinforcement Learning
-- Computer Network
-- Information Theory
-- Recommendation algorithm
-
-## 📄 PUBLICATIONS(DOMESTIC)
-
----
-
-1. 문희찬, 김민혁, **용권순**, 한대현,김태운 “딥 러닝기반 실시간 영상처리를 통한 크랙 탐지 및 개인형 이동수단 주행 보조 시스템 개발”(2021)
-
+<div align="center" style="text-align:center">
+  
+ ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+ ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white)</a>&nbsp;
+ ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+ ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+ ![Jupyter NoteBook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+ ![CashsApp](https://img.shields.io/badge/Fiance-00C244?style=for-the-badge&logo=CashApp&logoColor=white)</a>&nbsp;
+ <br>
+ ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
+ ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=HTML5&logoColor=white) 
+ ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
 
 
 </div>
-</details>
+-->
 
-<details>
-<summary style="margin-left: 100px;">🏆AWARDS AND HONORS</summary>
-<div style="margin-left: 25px;">
+---
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=vue)](https://github.com/younghoonNa/github-readme-stats) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=younghoonNa&theme=vue) 
 
-|  | Content | Prize | Host | Date |
-| --- | --- | --- | --- | --- |
-|  | Content | Prize | Host | Date |
-|  | 2020 Hallym SW Week-HBC-5 딥러닝 해커톤 | 은상  | 한림대학교 SW중심대학사업단 | 2020 Nov |
-|  | 2020 SW교과목 추천 에세이 공모전 | 우수 | 한림대학교 SW중심대학사업단 | 2020 Dec |
-|  | 2020 SW 세부 분야별 경진대회-오픈소스SW 이해와 활용 | 우수 | 한림대학교 SW중심대학사업단 | 2020 Dec |
-|  | 2021 오픈소스sw 글로벌 아이디어 공모전 | 동상 | 한림대학교 SW중심대학사업단 | 2021 May |
-|  | 방학? 놀면 뭐하니? 오픈소스SW 개발 공모전 | 금상 | 한림대학교 SW중심대학사업단 | 2021 Aug |
-|  | HBC-5 오픈소스 딥러닝 해커톤 | 은상 | 한림대학교 SW중심대학사업단 | 2021 Nov |
-|  | 2021년 SW창업 아이디어 경진대회 | 은상 | 한림대학교 SW중심대학사업단 | 2021 Nov |
+[그 외 깃허브 Status](https://github.com/younghoonNa/younghoonNa/blob/main/GithubStats.md)
 
-</div>
-</details>
-
-
-</div>
-</details>
-
-<details>
-<summary style="margin-left: 100px;">🏅 SCHOLARSHIP</summary>
-<div style="margin-left: 25px;">
-
-|  | Content | Host | Semester |
-| --- | --- | --- | --- |
-|  | School Excellence Scholarship | Hallym Univ. | 2018. Mar ~ 2021.Sep |
-|  | National Excellence in Science and Engineering Scholarship | Republic of Korea Government | 2022. Mar ~ 2023.Mar(Scheduled) |
-|  | SW Mentoring Scholarship | SW Department  in Hallym Univ. | 2021 Mar~ 2021 Summer |
-|  | SW Overseas Training Scholarship | SW Department  in Hallym Univ. | 2022 Summer |
-
-</div>
-</details>
-
-</div>
-</details>
-
-<details>
-<summary style="margin-left: 100px;">✈️ OVERSEAS EXPERIENCE</summary>
-<div style="margin-left: 25px;">
-
-
-|  | Country | Location | Date |
-| --- | --- | --- | --- |
-|  | United Kingdom | University of York | 2022.07.04 ~ 2022.08.09 |
-
-</div>
-</details>
-
-
-## **👩🏻‍💻** PROJECT
-
-### Capston Project (2022 Spring Semeseter)
-
-- ****Development of Encoding techniques using Machine Learning (****[https://github.com/reverse-sky/CapstoneDesign2022_1_DEML](https://github.com/reverse-sky/CapstoneDesign2022_1_DEML)****)****
-- 
-
+## 경력 및 경험
+[나영훈 지금까지 뭐하고 살았나](https://github.com/younghoonNa/younghoonNa/blob/main/git_resume.md)
+-->
