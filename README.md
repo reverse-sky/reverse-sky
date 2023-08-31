@@ -14,8 +14,8 @@
 
 
 Hi, Guys. I'm [KwonSoon]()
-B.S. [Hallym](https://www.hallym.ac.kr/hallym_univ/)
-M.S (Current) [Yonsei](https://cse.yonsei.ac.kr/cse/index.do)
+B.S. [Hallym](https://www.hallym.ac.kr/hallym_univ/)  
+M.S (Current) [Yonsei](https://cse.yonsei.ac.kr/cse/index.do)  
 -  Interesting on [AI](), [Graph Neural Network]() and [Data Mining]() 
 - 📖  My [Blog](https://velog.io/@reversesky)
 - Contact [Gmail](https://yykks3971@gmail.com)
